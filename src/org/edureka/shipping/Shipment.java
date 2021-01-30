@@ -13,7 +13,7 @@ public class Shipment {
 	int trackigNumber;
 	int chargeAmount;
 	//Change by developer 1
-
+	//change by developer 2
 	public int getResourceId() {
 		return resourceId;
 	}
